@@ -1,0 +1,8 @@
+@media (min-width: 767px) {
+    .skills-container{
+        grid-template-columns:repeat(2, 1fr) 
+      }
+      .projects{
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
